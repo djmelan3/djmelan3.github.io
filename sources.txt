@@ -1,0 +1,13 @@
+Sounds in this directory:
+
+000.wav (Short buzz)
+Source: https://freesound.org/people/Proxmo_Kashacir/sounds/583481/
+
+001.wav (Arcade game button tap)
+Source: https://freesound.org/people/Proxmo_Kashacir/sounds/583482/
+
+002.wav (Fast baldi coming for you)
+Source: https://freesound.org/people/Proxmo_Kashacir/sounds/583476/
+
+003.wav (Samba)
+Source: https://freesound.org/people/Proxmo_Kashacir/sounds/583314/
